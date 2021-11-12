@@ -1,6 +1,6 @@
 ### Chapter 3 - Yamaha Introduces the TW200
 
-The year was 1987. It marked a number of introductions. The Simpsons was first introduced on The Tracey Ullman Show. On October 19, a stock market crash named Black Monday occurred. The first Kentucky Fried Chicken fast-food restaurant opened in China. The Nike Air Max (unique in that it has an air compartment in the sole) and the first version of Photoshop are also introduced.
+The year was 1987. A number of lasting products were introduced. The Simpsons. The first Kentucky Fried Chicken opened in China. The Nike Air Max (unique in that it has an air compartment in the sole). Photoshop was first developed for the Macintosh in 1987.
 
 1987 was also the year that Yamaha introduced the TW200, also known as the Trailway (the Trailway name was dropped at the time the 2001 model was released). The TW200 was first introduced in Japan and North America. It was later introduced in Europe.
 
