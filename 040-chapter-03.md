@@ -1,4 +1,4 @@
-### Chapter 3 - Yamaha Introduces the TrailWay 200
+### Chapter 3 - Yamaha Introduces the TW200
 
 The year was 1987. It marked a number of introductions. The Simpsons was first introduced on The Tracey Ullman Show. On October 19, a stock market crash named Black Monday occurred. The first Kentucky Fried Chicken fast-food restaurant opened in China. The Nike Air Max (unique in that it has an air compartment in the sole) and the first version of Photoshop are also introduced.
 
