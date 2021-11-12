@@ -8,13 +8,14 @@
   * Pricing
   * Reception
   * Competition
+  * Resources
 * [Chapter 4 - The Early Years](050-chapter-04.md)
   * Uses
   * Accessories
-* [Chapter 5 - Changing the Name](050-chapter-04.md)
-  * Marketing
-* [Chapter 6 - Evolution](050-chapter-04.md)
+* [Chapter 5 - Evolution](060-chapter-05.md)
   * Kickstarter
   * Color Schemes
   * Pricing
-* [Chapter 7 - Summary](050-chapter-04.md)
+* [Chapter 6 - Summary](050-chapter-06.md)
+
+[Next >>](010-chapter-00.md)
