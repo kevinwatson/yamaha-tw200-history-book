@@ -21,4 +21,4 @@ In 2002 the Suzuki RV200 VanVan was released in North America. It has looks simi
 * https://bikeswiki.com/Suzuki_RV200_VanVan
 * https://www.globalsuzuki.com/motorcycle/products/vanvan200/
 
-[Next >>](040-chapter-03.md)
+[Next >>](050-chapter-04.md)
