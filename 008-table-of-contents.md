@@ -17,6 +17,6 @@
   * Kickstarter
   * Color Schemes
   * Pricing
-* [Chapter 6 - Summary](050-chapter-06.md)
+* [Chapter 6 - Summary](070-chapter-06.md)
 
 [Next >>](010-chapter-00.md)
