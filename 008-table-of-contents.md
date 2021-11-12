@@ -12,6 +12,7 @@
 * [Chapter 4 - The Early Years](050-chapter-04.md)
   * Uses
   * Accessories
+  * Clubs
 * [Chapter 5 - Evolution](060-chapter-05.md)
   * Kickstarter
   * Color Schemes
