@@ -11,6 +11,9 @@ My dad came up with the perfect solution: train the dog to ride on the motorcycl
 My dad's sister grew up and moved north. She had a friend that visited the small town where we lived and then they were later talking about her visit. She told her that she enjoyed the historical buildings on main street, but pointed out that there was something that caught her attention as she was leaving town - she saw a red dog riding on the back of a motorcycle. My aunt laughed and told her that was her brother and that he was probably heading to the field to check on the crops. Of all of the things to see in our town, that was the one thing that her friend remembered the most.
 
 ## Uses
+
+The TW has been marketed as an agricultural vehicle because of its low gear ratio and wide tires.
+
 ## Accessories
 
 [Next >>](060-chapter-05.md)
