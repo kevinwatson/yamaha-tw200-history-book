@@ -12,7 +12,7 @@ My dad's sister grew up and moved north. She had a friend that visited the small
 
 ## Uses
 
-The TW has been marketed as an agricultural vehicle because of its low gear ratio and wide tires.
+The TW has been marketed as an agricultural vehicle because of its low gear ratio and wide tires. It doesn't have the ground clearance, large engine, suspension range of it's dirt bike cousins.
 
 ## Accessories
 
