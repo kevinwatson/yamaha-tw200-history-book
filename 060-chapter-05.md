@@ -53,7 +53,7 @@ Though very little has changed year after year, Yamaha has changed the color sch
 | 2019 | black | black with white background | brown | black |
 | 2020 | black | black with white background | brown | black |
 | 2021 | black | white with black background | black | black |
-| 2022 | black | black with white background | brown | black |
+| 2022 | black | black with white background | black | black |
 
 ## Pricing
 
