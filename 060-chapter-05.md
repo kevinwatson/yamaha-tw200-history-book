@@ -16,26 +16,44 @@ Also with the 2001 model, the front brake was switched from a drum brake to a di
 
 Though very little has changed year after year, Yamaha has changed the color scheme. In the table below, I've listed the colors for each year.
 
-| Year | Colors: tank/lettering/fender/seat |
-|---|---|
-| 1987 | white/blue/white/blue |
-| 1987 | white/red/white/red |
-| 1988 | white/red/white/red |
-| 1988 | black/red/black/red |
-| 1989 | black/red/black/red |
-| 1989 | dark blue/yellow/light blue/blue |
-| 1990 | green/yellow/grey/green |
-| 1990 | green/yellow/grey/black |
-| 1991 | dark blue/yellow/white/dark blue |
-| 1991 | black/purple/black/light blue |
-| 1992 | black/purple/black/light blue |
-| 1992 | white/yellow/white/blue |
-| 1993 | white/blue/white/blue |
-| 1994 | purple/yellow/purple/red |
-| 1995 | purple/yellow/purple/orange |
-| 1996 | white/yellow/white/blue |
-| 1997 | white/red/white/blue |
-| 1998 | white/white/white/blue |
+| Year | Colors: Tank | Tank Lettering | Fender | Seat |
+|---|---|---|---|---|
+| 1987 | white | blue/red | white | blue/red |
+| 1988 | white/black | red | white | red |
+| 1989 | black/dark blue | red/yellow | black | red/blue |
+| 1990 | green | yellow | grey | green/black |
+| 1991 | dark blue/black | purple/yellow | | black/white | dark blue/light blue |
+| 1992 | black/white | purple/yellow | black/white | blue/light blue |
+| 1993 | white | blue | white | blue |
+| 1994 | purple | yellow | purple | red |
+| 1995 | purple | yellow | purple | orange |
+| 1996 | white | yellow | white | blue |
+| 1997 | white | red | white | blue |
+| 1998 | white | white | whit | blue |
+| 1999 | white | blue | white | black/blue |
+| 2000 | white | blue | white | blue |
+| 2001 | white | blue/black | white | two-tone black/blue |
+| 2002 | white | blue/black | white | two-tone black/blue |
+| 2003 | silver/white | blue/black | white | two-tone black/blue black/silver |
+| 2004 | silver | graphic only | black | two-tone black/silver |
+| 2005 | silver | graphic only | black | two-tone black/silver |
+| 2006 | two-tone black/blue | graphic only | black | two-tone black/silver black/blue |
+| 2007 | white | graphic only | blue | two-tone black/silver black/blue |
+| 2008 | white | graphic only | white | black |
+| 2009 | white | graphic only | white | black |
+| 2010 | white | graphic only | white | black |
+| 2011 | white | graphic only | white | black |
+| 2012 | white | graphic only | white | black |
+| 2013 | white | graphic only | white | black |
+| 2014 | blue/white | graphic only | white | black |
+| 2015 | silver | white | white | black |
+| 2016 | dark blue | white | white | black |
+| 2017 | dark blue | white | white | black |
+| 2018 | black | black with white background | brown | black |
+| 2019 | black | black with white background | brown | black |
+| 2020 | black | black with white background | brown | black |
+| 2021 | black | white with black background | black | black |
+| 2022 | black | black with white background | brown | black |
 
 ## Pricing
 
