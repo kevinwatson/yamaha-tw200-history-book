@@ -13,6 +13,7 @@
   * Uses
   * Accessories
   * Clubs
+  * Resources
 * [Chapter 5 - Evolution](060-chapter-05.md)
   * Kickstarter
   * Color Schemes
