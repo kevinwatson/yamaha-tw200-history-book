@@ -1,6 +1,6 @@
 ## Chapter 5 - Evolution
 
-One of the unique things about the TW is how little it has changed since its introduction. The same square headlight, tires and engine have been sold on the TW with little to no variation. The one thing that has changed each year is the color scheme. The largest change was in 2001 when the kickstarter was removed. The same year the front drum brake was replaced with a disc brake. The carburetor was also modified.
+One of the unique things about the TW is how little it has changed since its introduction. The same square headlight, tires and engine have been sold on the TW with little to no variation. The one thing that has changed almost each year is the color scheme. The largest change was in 2001 when the kickstarter was removed. The same year the front drum brake was replaced with a disc brake. The carburetor was also modified.
 
 ## Kickstarter
 
@@ -14,7 +14,9 @@ Also with the 2001 model, the front brake was switched from a drum brake to a di
 
 ## Color Schemes
 
-Though very little has changed year after year, Yamaha has changed the color scheme. In the table below, I've listed the colors for each year.
+Though very little has changed on the TW year after year, Yamaha has changed the color scheme, sometimes in small and other times in large ways. In the table below, I've listed the colors for each year.
+
+_**Table 5-1**_ Color Schemes by Year
 
 | Year | Colors: Tank | Tank Lettering | Fender | Seat |
 |---|---|---|---|---|
@@ -56,6 +58,47 @@ Though very little has changed year after year, Yamaha has changed the color sch
 | 2022 | black | black with white background | black | black |
 
 ## Pricing
+
+_**Table 5-2**_ Manufacturer's Suggested Retail Price by Year
+
+| Year | USD |
+|---|---|
+| 1987 | |
+| 1988 | |
+| 1989 | |
+| 1990 | |
+| 1991 | |
+| 1992 | |
+| 1993 | |
+| 1994 | |
+| 1995 | |
+| 1996 | |
+| 1997 | |
+| 1998 | |
+| 1999 | |
+| 2000 | |
+| 2001 | |
+| 2002 | |
+| 2003 | |
+| 2004 | |
+| 2005 | |
+| 2006 | |
+| 2007 | |
+| 2008 | |
+| 2009 | |
+| 2010 | |
+| 2011 | |
+| 2012 | |
+| 2013 | |
+| 2014 | |
+| 2015 | |
+| 2016 | |
+| 2017 | |
+| 2018 | |
+| 2019 | |
+| 2020 | |
+| 2021 | $4799 |
+| 2022 | $4799 |
 
 ## Resources
 
