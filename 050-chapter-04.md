@@ -29,7 +29,7 @@ Here's a list of accessories and some of the companies that manufacture each.
 _**Table 4-1**_ Accessories
 
 | Type | Manufacturer(s) |
-|---|---|---|
+|---|---|
 | Front luggage rack | Cycleracks |
 | Small rear luggage rack | Yamaha, Tusk |
 | Large rear luggage rack | Cycleracks |
