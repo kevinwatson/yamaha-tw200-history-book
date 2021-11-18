@@ -31,8 +31,7 @@ _**Table 4-1**_ Accessories
 | Type | Manufacturer(s) |
 |---|---|
 | Front luggage rack | Cycleracks |
-| Small rear luggage rack | Yamaha, Tusk |
-| Large rear luggage rack | Cycleracks |
+| Rear luggage rack | Cycleracks, Tusk, Yamaha |
 | Skid plate | Ricochet |
 | Handlebar riser | Tusk |
 
