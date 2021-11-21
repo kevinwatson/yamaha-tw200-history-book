@@ -2,21 +2,43 @@
 
 One of the unique things about the TW is how little it has changed since its introduction. The same square headlight, tires and engine have been sold on the TW with little to no variation. The one thing that has changed almost each year is the color scheme. The largest change was in 2001 when the kickstarter was removed. The same year the front drum brake was replaced with a disc brake. The carburetor was also modified.
 
-## Kickstarter
+## Dimensions
 
-To the surprise of many, the kickstarter was removed from the 2001 model of the TW. Yamaha made it optional with a separate kit that was available through their dealerships.
+The dimensions of the TW frame also changed slightly starting with the 2001 model.
 
-## Front Brake
+### 1987-2000
 
-Also with the 2001 model, the front brake was switched from a drum brake to a disc brake.
+_**Table 5-1**_ Dimensions 1987-2000
 
-## Carburetor
+| Dimension | Measurement |
+|---|---|
+| Length | 81.1 inches |
+| Width | 32.7 inches |
+| Height | 45.7 inches |
+| Seat height | 31.1 inches |
+| Wheelbase | 52.2 inches |
+| Ground clearance | 10.2 inches |
+| Curb weight | 278 lbs |
+
+### 2001-Present
+
+_**Table 5-2**_ Dimensions 2001-Present
+
+| Dimension | Measurement |
+|---|---|
+| Length | 82.3 inches |
+| Width | 32.3 inches |
+| Height | 44.1 inches |
+| Seat height | 31.1 inches |
+| Wheelbase | 52.2 inches |
+| Ground clearance | 10.4 inches |
+| Curb weight | 278 lbs |
 
 ## Color Schemes
 
 Though very little has changed on the TW year after year, Yamaha has changed the color scheme, sometimes in small and other times in large ways. In the table below, I've listed the colors for each year.
 
-_**Table 5-1**_ Color Schemes by Year
+_**Table 5-3**_ Color Schemes by Year
 
 | Year | Colors: Tank | Tank Lettering | Fender | Seat |
 |---|---|---|---|---|
@@ -57,9 +79,27 @@ _**Table 5-1**_ Color Schemes by Year
 | 2021 | black | white with black background | black | black |
 | 2022 | black | black with white background | black | black |
 
+## Modifications by Year
+
+Besides color changes, there were a number of upgrades that Yamaha has made throughout the TW's lifecycle. The most significant year was 2001 when the kickstarter became an optional item, a trip odometer was added and the carburetor was modified.
+
+_**Table 5-4**_ Modifications by Year
+
+| Year | Modification(s) |
+|---|---|
+| 1988 | Modified electrical system |
+| 1991 | Front brake shoe size adjustment |
+| 1996 | Removed front fork drain screws |
+| 2001 | Trip odometer added, electrical connector changes, handlebar controls updated, modified throttle cables, modified carb and throttle tubes, automatic cam chain adjuster, charging system bumped from 35W to 55W, CV carburetor with throttle cables on the other side, inlet manifold dimensions changed, kickstarter assembly removed, modified exhaust mounting |
+| 2002 | Smaller fuel cap |
+| 2009 | Gasket problem resolved |
+| 2015 | Spoke diameters changed |
+| 2017 | Rear suspension was modified to make it easier to adjust |
+| 2018 | Muffler mounting moved further inside the frame, tail light location mounts moved |
+
 ## Pricing
 
-_**Table 5-2**_ Manufacturer's Suggested Retail Price by Year
+_**Table 5-5**_ Manufacturer's Suggested Retail Price by Year
 
 | Year | USD |
 |---|---|
@@ -102,7 +142,9 @@ _**Table 5-2**_ Manufacturer's Suggested Retail Price by Year
 
 ## Resources
 
+* https://bikeswiki.com/Yamaha_TW200
 * https://www.motorcyclespecs.co.za/model/yamaha/yamaha_tw200%2089.htm
 * https://www.tw200forum.com/threads/tdubs-by-year-a-photo-collection.10362/
+* https://www.tw200forum.com/threads/changes-by-year-to-the-usa-tw200.59330/
 
 [Next >>](070-chapter-06.md)

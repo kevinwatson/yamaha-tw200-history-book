@@ -15,8 +15,9 @@
   * Clubs
   * Resources
 * [Chapter 5 - Evolution](060-chapter-05.md)
-  * Kickstarter
+  * Dimensions
   * Color Schemes
+  * Modifications by Year
   * Pricing
 * [Chapter 6 - Summary](070-chapter-06.md)
 
