@@ -92,7 +92,7 @@ _**Table 5-4**_ Modifications by Year
 | 1996 | Removed front fork drain screws |
 | 2001 | Trip odometer added, electrical connector changes, handlebar controls updated, modified throttle cables, modified carb and throttle tubes, automatic cam chain adjuster, charging system bumped from 35W to 55W, CV carburetor with throttle cables on the other side, inlet manifold dimensions changed, kickstarter assembly removed, modified exhaust mounting |
 | 2002 | Smaller fuel cap |
-| 2009 | Gasket problem resolved |
+| 2009 | Leaking gasket problem resolved |
 | 2015 | Spoke diameters changed |
 | 2017 | Rear suspension was modified to make adjustments easier |
 | 2018 | Muffler mounting moved further inside the frame, tail light mounts moved |
