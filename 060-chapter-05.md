@@ -94,8 +94,8 @@ _**Table 5-4**_ Modifications by Year
 | 2002 | Smaller fuel cap |
 | 2009 | Gasket problem resolved |
 | 2015 | Spoke diameters changed |
-| 2017 | Rear suspension was modified to make it easier to adjust |
-| 2018 | Muffler mounting moved further inside the frame, tail light location mounts moved |
+| 2017 | Rear suspension was modified to make adjustments easier |
+| 2018 | Muffler mounting moved further inside the frame, tail light mounts moved |
 
 ## Pricing
 
