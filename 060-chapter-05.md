@@ -40,44 +40,44 @@ Though very little has changed on the TW year after year, Yamaha has changed the
 
 _**Table 5-3**_ Color Schemes by Year
 
-| Year | Colors: Tank | Tank Lettering | Fender | Seat |
-|---|---|---|---|---|
-| 1987 | white | blue/red | white | blue/red |
-| 1988 | white/black | red | white | red |
-| 1989 | black/dark blue | red/yellow | black | red/blue |
-| 1990 | green | yellow | grey | green/black |
-| 1991 | dark blue/black | purple/yellow | | black/white | dark blue/light blue |
-| 1992 | black/white | purple/yellow | black/white | blue/light blue |
-| 1993 | white | blue | white | blue |
-| 1994 | purple | yellow | purple | red |
-| 1995 | purple | yellow | purple | orange |
-| 1996 | white | yellow | white | blue |
-| 1997 | white | red | white | blue |
-| 1998 | white | white | whit | blue |
-| 1999 | white | blue | white | black/blue |
-| 2000 | white | blue | white | blue |
-| 2001 | white | blue/black | white | two-tone black/blue |
-| 2002 | white | blue/black | white | two-tone black/blue |
-| 2003 | silver/white | blue/black | white | two-tone black/blue black/silver |
-| 2004 | silver | graphic only | black | two-tone black/silver |
-| 2005 | silver | graphic only | black | two-tone black/silver |
-| 2006 | two-tone black/blue | graphic only | black | two-tone black/silver black/blue |
-| 2007 | white | graphic only | blue | two-tone black/silver black/blue |
-| 2008 | white | graphic only | white | black |
-| 2009 | white | graphic only | white | black |
-| 2010 | white | graphic only | white | black |
-| 2011 | white | graphic only | white | black |
-| 2012 | white | graphic only | white | black |
-| 2013 | white | graphic only | white | black |
-| 2014 | blue/white | graphic only | white | black |
-| 2015 | silver | white | white | black |
-| 2016 | dark blue | white | white | black |
-| 2017 | dark blue | white | white | black |
-| 2018 | black | black with white background | brown | black |
-| 2019 | black | black with white background | brown | black |
-| 2020 | black | black with white background | brown | black |
-| 2021 | black | white with black background | black | black |
-| 2022 | black | black with white background | black | black |
+| Year | Colors: Tank | Tank Lettering | Fender | Seat | Rims |
+|---|---|---|---|---|---|
+| 1987 | white | blue/red | white | blue/red | silver |
+| 1988 | white/black | red | white | red | silver |
+| 1989 | black/dark blue | red/yellow | black | red/blue | silver |
+| 1990 | green | yellow | grey | green/black | silver |
+| 1991 | dark blue/black | purple/yellow | | black/white | dark blue/light blue | silver |
+| 1992 | black/white | purple/yellow | black/white | blue/light blue | silver |
+| 1993 | white | blue | white | blue | silver |
+| 1994 | purple | yellow | purple | red | silver |
+| 1995 | purple | yellow | purple | orange | silver |
+| 1996 | white | yellow | white | blue | silver |
+| 1997 | white | red | white | blue | silver |
+| 1998 | white | white | whit | blue | silver |
+| 1999 | white | blue | white | black/blue | silver |
+| 2000 | white | blue | white | blue | silver |
+| 2001 | white | blue/black | white | two-tone black/blue | silver |
+| 2002 | white | blue/black | white | two-tone black/blue | silver |
+| 2003 | silver/white | blue/black | white | two-tone black/blue black/silver | black |
+| 2004 | silver | graphic only | black | two-tone black/silver | black |
+| 2005 | silver | graphic only | black | two-tone black/silver | black |
+| 2006 | two-tone black/blue | graphic only | black | two-tone black/silver black/blue | silver |
+| 2007 | white | graphic only | blue | two-tone black/silver black/blue | silver |
+| 2008 | white | graphic only | white | black | black |
+| 2009 | white | graphic only | white | black | black |
+| 2010 | white | graphic only | white | black | black |
+| 2011 | white | graphic only | white | black | black |
+| 2012 | white | graphic only | white | black | black |
+| 2013 | white | graphic only | white | black | black |
+| 2014 | blue/white | graphic only | white | black | black |
+| 2015 | silver | white | white | black | black |
+| 2016 | dark blue | white | white | black | black |
+| 2017 | dark blue | white | white | black | black |
+| 2018 | black | black with white background | brown | black | black |
+| 2019 | black | black with white background | brown | black | black |
+| 2020 | black | black with white background | brown | black | black |
+| 2021 | black | white with black background | black | black | black |
+| 2022 | black | black with white background | black | black | black |
 
 ## Modifications by Year
 
@@ -146,5 +146,6 @@ _**Table 5-5**_ Manufacturer's Suggested Retail Price by Year
 * https://www.motorcyclespecs.co.za/model/yamaha/yamaha_tw200%2089.htm
 * https://www.tw200forum.com/threads/tdubs-by-year-a-photo-collection.10362/
 * https://www.tw200forum.com/threads/changes-by-year-to-the-usa-tw200.59330/
+* https://www.yamahamotorsports.com/dual-sport/models/tw200
 
 [Next >>](070-chapter-06.md)
