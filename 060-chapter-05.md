@@ -87,7 +87,7 @@ _**Table 5-4**_ Manufacturer's Suggested Retail Price by Year
 
 | Year | USD |
 |---|---|
-| 1987 | |
+| 1987 | $1699 |
 | 1988 | |
 | 1989 | |
 | 1990 | |
@@ -113,7 +113,7 @@ _**Table 5-4**_ Manufacturer's Suggested Retail Price by Year
 | 2010 | |
 | 2011 | |
 | 2012 | |
-| 2013 | |
+| 2013 | $4590 |
 | 2014 | |
 | 2015 | |
 | 2016 | |
@@ -128,6 +128,7 @@ _**Table 5-4**_ Manufacturer's Suggested Retail Price by Year
 
 * https://bikeswiki.com/Yamaha_TW200
 * https://www.motorcyclespecs.co.za/model/yamaha/yamaha_tw200%2089.htm
+* https://www.tw200forum.com/threads/cycle-world-september-1987-tw200-article.6254/
 * https://www.tw200forum.com/threads/tdubs-by-year-a-photo-collection.10362/
 * https://www.tw200forum.com/threads/changes-by-year-to-the-usa-tw200.59330/
 * https://www.yamahamotorsports.com/dual-sport/models/tw200
