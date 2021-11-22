@@ -4,41 +4,25 @@ One of the unique things about the TW is how little it has changed since its int
 
 ## Dimensions
 
-The dimensions of the TW frame also changed slightly starting with the 2001 model.
-
-### 1987-2000
+The dimensions of the TW frame changed slightly starting with the 2001 model.
 
 _**Table 5-1**_ Dimensions 1987-2000
 
-| Dimension | Measurement |
-|---|---|
-| Length | 81.1 inches |
-| Width | 32.7 inches |
-| Height | 45.7 inches |
-| Seat height | 31.1 inches |
-| Wheelbase | 52.2 inches |
-| Ground clearance | 10.2 inches |
-| Curb weight | 278 lbs |
-
-### 2001-Present
-
-_**Table 5-2**_ Dimensions 2001-Present
-
-| Dimension | Measurement |
-|---|---|
-| Length | 82.3 inches |
-| Width | 32.3 inches |
-| Height | 44.1 inches |
-| Seat height | 31.1 inches |
-| Wheelbase | 52.2 inches |
-| Ground clearance | 10.4 inches |
-| Curb weight | 278 lbs |
+| Dimension | Years: 1987-2000 | 2001-Present |
+|---|---|---|
+| Length | 81.1 inches | 82.3 inches |
+| Width | 32.7 inches | 32.3 inches |
+| Height | 45.7 inches | 44.1 inches |
+| Seat height | 31.1 inches | 31.1 inches |
+| Wheelbase | 52.2 inches | 52.2 inches |
+| Ground clearance | 10.2 inches | 10.4 inches |
+| Curb weight | 278 lbs | 278 lbs |
 
 ## Color Schemes
 
 Though very little has changed on the TW year after year, Yamaha has changed the color scheme, sometimes in small and other times in large ways. In the table below, I've listed the colors for each year.
 
-_**Table 5-3**_ Color Schemes by Year
+_**Table 5-2**_ Color Schemes by Year
 
 | Year | Colors: Tank | Tank Lettering | Fender | Seat | Rims |
 |---|---|---|---|---|---|
@@ -83,7 +67,7 @@ _**Table 5-3**_ Color Schemes by Year
 
 Besides color changes, there were a number of upgrades that Yamaha has made throughout the TW's lifecycle. The most significant year was 2001 when the kickstarter became an optional item, a trip odometer was added and the carburetor was modified.
 
-_**Table 5-4**_ Modifications by Year
+_**Table 5-3**_ Modifications by Year
 
 | Year | Modification(s) |
 |---|---|
@@ -99,7 +83,7 @@ _**Table 5-4**_ Modifications by Year
 
 ## Pricing
 
-_**Table 5-5**_ Manufacturer's Suggested Retail Price by Year
+_**Table 5-4**_ Manufacturer's Suggested Retail Price by Year
 
 | Year | USD |
 |---|---|
