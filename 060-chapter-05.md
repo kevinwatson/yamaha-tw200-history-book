@@ -46,7 +46,7 @@ _**Table 5-3**_ Color Schemes by Year
 | 1988 | white/black | red | white | red | silver |
 | 1989 | black/dark blue | red/yellow | black | red/blue | silver |
 | 1990 | green | yellow | grey | green/black | silver |
-| 1991 | dark blue/black | purple/yellow | | black/white | dark blue/light blue | silver |
+| 1991 | dark blue/black | purple/yellow | black/white | dark blue/light blue | silver |
 | 1992 | black/white | purple/yellow | black/white | blue/light blue | silver |
 | 1993 | white | blue | white | blue | silver |
 | 1994 | purple | yellow | purple | red | silver |
