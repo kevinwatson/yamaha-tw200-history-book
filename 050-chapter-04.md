@@ -34,6 +34,7 @@ _**Table 4-1**_ Accessories
 | Rear luggage rack | Cycleracks, Tusk, Yamaha |
 | Skid plate | Ricochet |
 | Handlebar riser | Tusk |
+| Sprockets | |
 
 
 ## Clubs
