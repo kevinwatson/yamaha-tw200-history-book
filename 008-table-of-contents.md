@@ -1,6 +1,7 @@
 ### TABLE OF CONTENTS
 
 * [Chapter 1 - Yamaha - A Brief History](020-chapter-01.md)
+  * Resources
 * [Chapter 2 - Dual Sport Motorcycles](030-chapter-02.md)
   * History
 * [Chapter 3 - Yamaha Introduces the TW200](040-chapter-03.md)
