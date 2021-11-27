@@ -4,9 +4,7 @@ Dual-sport, enduro, all-road, dual-purpose and other terms describe a motorcycle
 
 Dual-sports vary widely depending on the intended use. If they're intended to drive off road more often, they will have knobby tires and a taller seat height with higher ground clearance. If the intention is to ride it more often on paved roads, it may have higher ground clearance and smoother street tires.
 
-To make a bike street legal, it needs to have signal lights, headlight, taillight, speedometer, mirrors and a license plate mount.
-
-## History
+To make a bike street legal, it needs to have signal lights, headlight, taillight, speedometer, a horn, mirrors and a license plate. Additional rider comforts for the road might include a wider seat, road tires and raised handlebars.
 
 ## Resources
 
