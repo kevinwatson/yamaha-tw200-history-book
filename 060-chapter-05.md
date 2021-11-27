@@ -90,7 +90,6 @@ _**Table 5-4**_ Manufacturer's Suggested Retail Price by Year
 | 1987 | $1699 |
 | 2013 | $4590 |
 | 2021 | $4799 |
-| 2022 | $4799 |
 
 ## Resources
 
