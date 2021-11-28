@@ -20,25 +20,6 @@ What the TW does have, though, is versatility. Its stock knobby tires (narrower 
 
 It can be used as a commuter bike if you're lucky enough to live close to work and can take either city streets or the backroads, and of course if you're a farmer or rancher.
 
-## Accessories
-
-Because the frame has remained unmodified for so many years, there are a number of first and third party accessories available that will fit nearly any TW model. These accessories vary from front and rear racks to rock guard plates.
-
-Here's a list of accessories and some of the companies that manufacture each.
-
-_**Table 4-1**_ Accessories
-
-| Type | Manufacturer(s) |
-|---|---|
-| Front luggage rack | Cycleracks |
-| Rear luggage rack | Cycleracks, Tusk, Yamaha |
-| Skid plate | Ricochet |
-| Handlebar riser | Tusk |
-| Sprockets | Various |
-
-
-## Clubs
-
 ## Resources
 
 * https://www.yamahamotorsports.com/dual-sport/models/tw200

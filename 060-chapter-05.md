@@ -91,6 +91,22 @@ _**Table 5-4**_ Manufacturer's Suggested Retail Price by Year
 | 2013 | $4590 |
 | 2021 | $4799 |
 
+## Accessories
+
+Because the frame has remained unmodified for so many years, there are a number of first and third party accessories available that will fit nearly any TW model. These accessories vary from front and rear racks to rock guard plates.
+
+Here's a list of accessories and some of the companies that manufacture each.
+
+_**Table 4-1**_ Accessories
+
+| Type | Manufacturer(s) |
+|---|---|
+| Front luggage rack | Cycleracks |
+| Rear luggage rack | Cycleracks, Tusk, Yamaha |
+| Skid plate | Ricochet |
+| Handlebar riser | Tusk |
+| Sprockets | Various |
+
 ## Resources
 
 * https://bikeswiki.com/Yamaha_TW200
