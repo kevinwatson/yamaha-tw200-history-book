@@ -6,4 +6,4 @@ The Yamaha TW200 is a dual sport motorcycle that was first released in Japan and
 
 This book will take you on a journey from the first announcement to the current day. The bike's unique characteristics still drive demand and Yamaha continues to release new models.
 
-[Next >>](006-acknowledgements.md)
+[Next >>](007-copyright.md)
