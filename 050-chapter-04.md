@@ -24,4 +24,6 @@ It can be used as a commuter bike if you're lucky enough to live close to work a
 
 * https://www.yamahamotorsports.com/dual-sport/models/tw200
 
+![Outside a Man Made Cave](images/img_0735.jpg)
+
 [Next >>](060-chapter-05.md)

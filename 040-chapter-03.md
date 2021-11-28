@@ -37,4 +37,6 @@ In 2002 the Suzuki RV200 VanVan was released in North America. It has looks simi
 * https://www.tw200forum.com/threads/cycle-world-september-1987-tw200-article.6254
 * http://yamaha.itgo.com/BW200review/1.htm
 
+![Panoramic view of 5 Mile Pass in Utah County](images/img_0757.jpg)
+
 [Next >>](050-chapter-04.md)

@@ -11,4 +11,6 @@ To make a bike street legal, it needs to have signal lights, headlight, tailligh
 * https://en.wikipedia.org/wiki/Dual-sport_motorcycle
 * https://en.wikipedia.org/wiki/Types_of_motorcycles
 
+![Two TW200 Motorcycles](images/img_0800.jpg)
+
 [Next >>](040-chapter-03.md)

@@ -116,4 +116,6 @@ _**Table 4-1**_ Accessories
 * https://www.tw200forum.com/threads/changes-by-year-to-the-usa-tw200.59330/
 * https://www.yamahamotorsports.com/dual-sport/models/tw200
 
+![Inside a Man Made Cave](images/img_0736.jpg)
+
 [Next >>](070-chapter-06.md)

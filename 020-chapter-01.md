@@ -13,4 +13,6 @@ The Red Dragonfly was the first mass-produced motorcycle to feature a primary st
 * https://en.wikipedia.org/wiki/Yamaha_Corporation
 * https://en.wikipedia.org/wiki/Yamaha_YA-1
 
+![A TW200 Motorcycle](images/img_0758.jpg)
+
 [Next >>](030-chapter-02.md)
