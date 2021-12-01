@@ -10,7 +10,7 @@
   * Reception
   * Competition
   * Resources
-* [Chapter 4 - The Early Years](050-chapter-04.md)
+* [Chapter 4 - My Experience](050-chapter-04.md)
   * Uses
   * Resources
 * [Chapter 5 - Evolution](060-chapter-05.md)

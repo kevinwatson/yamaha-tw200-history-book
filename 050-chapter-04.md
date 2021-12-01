@@ -1,4 +1,4 @@
-### Chapter 4 - The Early Years
+### Chapter 4 - My Experience
 
 On a rainy day in the late 1980s I remember going to a Yamaha dealership with my mom, dad and younger brothers. We were there to buy my dad a motorcycle. I don't remember the specifics on why he picked a TW200. My dad was and still is a negotiator. He negotiated with the salesman for quite a while while my brothers and I sat on and tested every 3 and 4 wheeler on that showroom floor. Near the end of those negotiations, my dad had worked the salesman over. It came time to take our purchase and go home, but we had driven the 50 miles to the dearlership in a car, and had no way to load it up. My dad, ever the negotiator, talked the salesman into throwing in a helmet (and rear rack) for free so the motorcycle could be ridden home. I remember mom getting behind the wheel of the car and following dad all of the way home in the rainstorm.
 
