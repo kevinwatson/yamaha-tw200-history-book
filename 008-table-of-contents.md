@@ -12,8 +12,9 @@
   * Uses
   * Resources
 * [Chapter 4 - My Experience](050-chapter-04.md)
-  * First Purchase
-  * Visit
+  * Purchase
+  * Agricultural Uses
+  * Out of Town Visitor
 * [Chapter 5 - Evolution](060-chapter-05.md)
   * Dimensions
   * Color Schemes
