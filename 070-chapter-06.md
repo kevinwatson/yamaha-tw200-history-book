@@ -4,6 +4,6 @@ Thank you for joining me on this walk through the history and utility of the Yam
 
 The Yamaha TW200, despite its weaknesses, has proven itself with its wide variety of uses. Agricultural, on or off road, on or off trail, or simply an errand vehicle, it has a beloved following and customers who buy a second or third one after wearing the first one out.
 
-Whether you're a TW owner or not, my wish is that you get out there and enjoy the ride!
+Whether you're a TW owner or not, my wish is that anytime you feel the need you can hop on your favorite bike and enjoy the great outdoors!
 
 ![Two TW200 Motorcycles](images/img_0804.jpg)
