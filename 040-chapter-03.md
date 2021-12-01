@@ -28,6 +28,16 @@ In 2002 the Suzuki RV200 VanVan was released in North America. It looks similar 
 
 For off-roading, Yamaha's own BW200 with a similar square headlight look and wide tires was a competing product until it was discontinued in 1989.
 
+## Uses
+
+The TW has been marketed as an agricultural vehicle because of its low gear ratio and wide tires. It doesn't have the ground clearance (10 inches), large engine (196 cc) or suspension (6.3 inches in the front and 5.9 inches on the rear) of it's dirt bike cousins.
+
+The TW is only distantly related to its street bike relatives. It has mirrors, headlamp, brake light/taillight and signal lights so it can be ridden on city streets, but because of its low gear ratio with a top speed of around 55 mph and stock off-road tires it's not suitable as a commuter or road bike.
+
+What the TW does have, though, is versatility. Its stock knobby tires (narrower in the front, wider in the back) which provides a softer ride and the ability to ride from town into the hills, to the trails, and even off-trail no matter the terrain.
+
+It can be used as a commuter bike if you're lucky enough to live close to work and can take either city streets or the backroads, and of course if you're a farmer or rancher.
+
 ## Resources
 
 * https://bikeswiki.com/Yamaha_TW200
