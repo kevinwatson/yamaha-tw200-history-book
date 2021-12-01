@@ -1,6 +1,6 @@
 ## Chapter 5 - Evolution
 
-One of the unique things about the TW is how little it has changed since its introduction. The same square headlight, tires and engine have been sold on the TW with little to no variation. The one thing that has changed almost each year is the color scheme. The largest change was in 2001 when the kickstarter was removed. The same year the front drum brake was replaced with a disc brake. The carburetor was also modified.
+One of the unique things about the TW is how little it has changed since its introduction. The same square headlight, tires and engine have been features of the TW with little to no variation. The one thing that has changed almost each year is the color scheme. Two of the most drastic changes were in 2001 when the kickstarter was removed and front drum brake was replaced with a disc brake.
 
 ## Dimensions
 
@@ -65,7 +65,7 @@ _**Table 5-2**_ Color Schemes by Year
 
 ## Modifications by Year
 
-Besides color changes, there were a number of upgrades that Yamaha has made throughout the TW's lifecycle. The most significant year was 2001 when the kickstarter became an optional item, a trip odometer was added and the carburetor was modified.
+Besides color changes, there were a number of upgrades that Yamaha has made throughout the TW's lifecycle. The most significant year was 2001 when the kickstarter became an optional item, the front brake was switched from drum to disc, a trip odometer was added and the carburetor was modified.
 
 _**Table 5-3**_ Modifications by Year
 
@@ -93,7 +93,7 @@ _**Table 5-4**_ Manufacturer's Suggested Retail Price by Year
 
 ## Accessories
 
-Because the frame has remained unmodified for so many years, there are a number of first and third party accessories available that will fit nearly any TW model. These accessories vary from front and rear racks to rock guard plates.
+Because the frame has remained unmodified for so many years, there are a number of first and third party accessories available that will fit nearly any TW model. These accessories vary from front and rear racks to skid plates.
 
 Here's a list of accessories and some of the companies that manufacture each.
 
