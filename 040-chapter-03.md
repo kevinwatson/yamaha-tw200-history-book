@@ -24,7 +24,9 @@ When comparing other Yamaha motorcycles with similar production runs, the SR400 
 
 Because the TW200 fits in the dual-sport category, it can be compared to other dual-sport bikes, dirt bikes, and road bikes. When compared to the competition, the TW200 fails in a number of ways. It's low gear ratio hurts its rankings for road use, it's small engine and low ground clearance hurts its rankings for off road and dual-sport use, but it finds its niche for riders who want to do more off roading than on road but don't mind that it takes a little longer to get there.
 
-In 2002 the Suzuki RV200 VanVan was released in North America. It has looks similar to the TW200 with a smaller diameter but wider tire in the back. Stock tires on the RV200 are street, not knobby like the TW200. Its engine is similar in size and it's also street legal.
+In 2002 the Suzuki RV200 VanVan was released in North America. It looks similar to the TW200 with a smaller diameter tire in the front and a wider tire in the back. Stock tires on the RV200 are street, not knobby like the TW200. Its engine is similar in size and the VanVan is also street legal.
+
+For off-roading, Yamaha's own BW200 with a similar square headlight look and wide tires was a competing product until it was discontinued in 1989.
 
 ## Resources
 
