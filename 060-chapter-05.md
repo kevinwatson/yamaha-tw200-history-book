@@ -37,7 +37,7 @@ _**Table 5-2**_ Color Schemes by Year
 | 1995 | purple | yellow | purple | orange | silver |
 | 1996 | white | yellow | white | blue | silver |
 | 1997 | white | red | white | blue | silver |
-| 1998 | white | white | whit | blue | silver |
+| 1998 | white | white | white | blue | silver |
 | 1999 | white | blue | white | black/blue | silver |
 | 2000 | white | blue | white | blue | silver |
 | 2001 | white | blue/black | white | two-tone black/blue | silver |
