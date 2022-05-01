@@ -17,7 +17,7 @@ _**Table 5-1**_ Modified Dimensions
 | Wheelbase | 52.0 inches | 52.2 inches |
 | Gross vehicle weight rating (GVWR) | 625 lbs | 675 lbs |
 
-_** Table 5-2**_ Unmodified Dimensions
+_**Table 5-2**_ Unmodified Dimensions
 
 | Dimension | Years 1987+ |
 |---|---|
