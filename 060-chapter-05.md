@@ -69,9 +69,9 @@ _**Table 5-3**_ Color Schemes by Year
 | 2018 | black | black with white background | sandy beige | black | black |
 | 2019 | black | black with white background | sandy beige | black | black |
 | 2020 | black | black with white background | sandy beige | black | black |
-| 2021 | black | white with black background | radical gray | black | black |
-| 2022 | black | black with white background | radical gray | black | black |
-| 2023 | black | black with white lettering | radical gray | black | black |
+| 2021 | black | white with white letters | radical gray | black | black |
+| 2022 | black | black with white letters | radical gray | black | black |
+| 2023 | black | black with white letters | radical gray | black | black |
 
 ## Modifications by Year
 
