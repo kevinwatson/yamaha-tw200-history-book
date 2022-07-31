@@ -62,15 +62,16 @@ _**Table 5-3**_ Color Schemes by Year
 | 2011 | white | graphic only | white | black | black |
 | 2012 | white | graphic only | white | black | black |
 | 2013 | white | graphic only | white | black | black |
-| 2014 | blue/white | graphic only | white | black | black |
-| 2015 | silver | white | white | black | black |
-| 2016 | dark blue | white | white | black | black |
-| 2017 | dark blue | white | white | black | black |
-| 2018 | black | black with white background | brown | black | black |
-| 2019 | black | black with white background | brown | black | black |
-| 2020 | black | black with white background | brown | black | black |
-| 2021 | black | white with black background | black | black | black |
-| 2022 | black | black with white background | black | black | black |
+| 2014 | team Yamaha blue | graphic only | white | black | black |
+| 2015 | charcoal silver/white | white | white | black | black |
+| 2016 | mineral blue | white | white | black | black |
+| 2017 | mineral blue | white | white | black | black |
+| 2018 | black | black with white background | sandy beige | black | black |
+| 2019 | black | black with white background | sandy beige | black | black |
+| 2020 | black | black with white background | sandy beige | black | black |
+| 2021 | black | white with black background | radical gray | black | black |
+| 2022 | black | black with white background | radical gray | black | black |
+| 2023 | black | black with white lettering | radical gray | black | black |
 
 ## Modifications by Year
 
@@ -97,8 +98,11 @@ _**Table 5-5**_ Manufacturer's Suggested Retail Price by Year
 | Year | USD |
 |---|---|
 | 1987 | $1699 |
+| 2012 | $4490 |
 | 2013 | $4590 |
-| 2021 | $4799 |
+| 2017 | $4599 |
+| 2021 | $4699 |
+| 2022 | $4799 |
 
 ## Accessories
 
