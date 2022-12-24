@@ -26,6 +26,8 @@ _**Table 5-2**_ Unmodified Dimensions
 | Front tire | 130/80-18 |
 | Rear tire | 180/80-14 |
 | Engine | 196 cc air-cooled 4 stroke |
+| Fuel tank capacity | 1.8 gallons |
+| Fuel reserve amount | 0.45 gallons |
 
 ## Color Schemes
 
