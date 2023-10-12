@@ -73,7 +73,8 @@ _**Table 5-3**_ Color Schemes by Year
 | 2020 | black | black with white background | sandy beige | black | black |
 | 2021 | black | white with white letters | radical gray | black | black |
 | 2022 | black | black with white letters | radical gray | black | black |
-| 2023 | black | black with white letters | radical gray | black | black |
+| 2023 | black | black with white letters | radical gray | black | black ||
+| 2024 | silver | black | black | black | black |
 
 ## Modifications by Year
 
@@ -105,6 +106,7 @@ _**Table 5-5**_ Manufacturer's Suggested Retail Price by Year
 | 2017 | $4599 |
 | 2021 | $4699 |
 | 2022 | $4799 |
+| 2024 | $4999 |
 
 ## Accessories
 
@@ -129,7 +131,7 @@ _**Table 5-6**_ Accessories
 * https://www.tw200forum.com/threads/cycle-world-september-1987-tw200-article.6254/
 * https://www.tw200forum.com/threads/tdubs-by-year-a-photo-collection.10362/
 * https://www.tw200forum.com/threads/changes-by-year-to-the-usa-tw200.59330/
-* https://www.yamahamotorsports.com/dual-sport/models/tw200
+* https://www.yamahamotorsports.com/models.php?product=201&action=productPage
 
 ![Inside a Man Made Cave](images/img_0736.jpg)
 
