@@ -74,7 +74,7 @@ _**Table 5-3**_ Color Schemes by Year
 | 2021 | black | white with white letters | radical gray | black | black |
 | 2022 | black | black with white letters | radical gray | black | black |
 | 2023 | black | black with white letters | radical gray | black | black ||
-| 2024 | silver | black | black | black | black |
+| 2024 | gallant gray | black | black | black | black |
 
 ## Modifications by Year
 
@@ -106,6 +106,7 @@ _**Table 5-5**_ Manufacturer's Suggested Retail Price by Year
 | 2017 | $4599 |
 | 2021 | $4699 |
 | 2022 | $4799 |
+| 2023 | $4899 |
 | 2024 | $4999 |
 
 ## Accessories
